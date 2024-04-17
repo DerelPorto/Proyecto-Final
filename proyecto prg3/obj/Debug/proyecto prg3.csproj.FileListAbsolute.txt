@@ -1,0 +1,15 @@
+C:\Users\SEGMON\Desktop\Proyecto Final\proyecto prg3\proyecto prg3\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\SEGMON\Desktop\Proyecto Final\proyecto prg3\proyecto prg3\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\SEGMON\Desktop\Proyecto Final\proyecto prg3\proyecto prg3\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\SEGMON\Desktop\Proyecto Final\proyecto prg3\proyecto prg3\bin\Debug\proyecto prg3.exe.config
+C:\Users\SEGMON\Desktop\Proyecto Final\proyecto prg3\proyecto prg3\bin\Debug\proyecto prg3.exe
+C:\Users\SEGMON\Desktop\Proyecto Final\proyecto prg3\proyecto prg3\bin\Debug\proyecto prg3.pdb
+C:\Users\SEGMON\Desktop\Proyecto Final\proyecto prg3\proyecto prg3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SEGMON\Desktop\Proyecto Final\proyecto prg3\proyecto prg3\bin\Debug\WebDriver.dll
+C:\Users\SEGMON\Desktop\Proyecto Final\proyecto prg3\proyecto prg3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SEGMON\Desktop\Proyecto Final\proyecto prg3\proyecto prg3\bin\Debug\WebDriver.xml
+C:\Users\SEGMON\Desktop\Proyecto Final\proyecto prg3\proyecto prg3\obj\Debug\proyecto prg3.csproj.AssemblyReference.cache
+C:\Users\SEGMON\Desktop\Proyecto Final\proyecto prg3\proyecto prg3\obj\Debug\proyecto prg3.csproj.CoreCompileInputs.cache
+C:\Users\SEGMON\Desktop\Proyecto Final\proyecto prg3\proyecto prg3\obj\Debug\proyecto prg3.csproj.CopyComplete
+C:\Users\SEGMON\Desktop\Proyecto Final\proyecto prg3\proyecto prg3\obj\Debug\proyecto prg3.exe
+C:\Users\SEGMON\Desktop\Proyecto Final\proyecto prg3\proyecto prg3\obj\Debug\proyecto prg3.pdb
